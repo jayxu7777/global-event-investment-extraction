@@ -53,3 +53,5 @@ Model used: sentence-transformers/all-mpnet-base-v2
 ## 🚀 Installation
 ```bash
 pip install pandas numpy torch transformers sentence-transformers chardet tqdm scikit-learn
+
+dataset link：https://drive.google.com/file/d/1AbAb-9OqI6Dl7ho26jRor97xGrSUHa_W/view?usp=drive_link
